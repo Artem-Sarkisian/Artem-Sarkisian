@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Artem @Hikik0m0ri, SDET/Head of QA.
+- 👋 Hi, I’m Artem, SDET/Head of QA.
 - 👀 I’m interested in all areas of modern technology.
 - 📫 How to reach me: 
 	- https://t.me/Hikik0m0ri
-	- https://www.linkedin.com/in/artems517/
+	- https://www.linkedin.com/in/artem-sarkisian/
