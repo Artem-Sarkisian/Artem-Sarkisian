@@ -2,12 +2,12 @@
 
 I specialize in backend development, test automation, and Web3 solutions, delivering high-performance and scalable systems. With 12+ years in IT, I have deep expertise in Python, Java, and Go and build automation frameworks, backend services, and AI-powered bots.
 
-✅ Backend Development (FastAPI, Go, Spring Boot)
-✅ Distributed Systems & Microservices (Kafka, Redis, gRPC, RESTapi)
-✅ Backend Test Automation (API, Microservices) – Python, Java, Golang
-✅ Trading Bots (Binance API, TradingView, Algo Trading)
-✅ Telegram & WhatsApp Bots
-✅ Web3 Solutions & Smart Contracts
+✅ Backend Development (FastAPI, Go, Spring Boot)<br>
+✅ Distributed Systems & Microservices (Kafka, Redis, gRPC, RESTapi)<br>
+✅ Backend Test Automation (API, Microservices) – Python, Java, Golang<br>
+✅ Trading Bots (Binance API, TradingView, Algo Trading)<br>
+✅ Telegram & WhatsApp Bots<br>
+✅ Web3 Solutions & Smart Contracts<br>
 
 
 # 💻 Tech Stack:
