@@ -1,6 +1,6 @@
 # Artem Sarkisian
 
-### Founder & CTO at Ronin Systems | Backend Architect | AI Automation | Trading Infrastructure
+Backend Architect | AI Automation | Trading Infrastructure
 
 I build production systems where reliability matters.
 
